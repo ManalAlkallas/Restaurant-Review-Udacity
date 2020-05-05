@@ -1,5 +1,5 @@
-Restaurant Reviews App (Stage 1)
-===============================
+Restaurant Reviews App
+======================
 
 # Table of Contents
 
